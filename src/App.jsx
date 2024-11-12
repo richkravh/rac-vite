@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Hero from '../src/component/home/Hero'
 import Intro from '../src/component/home/Intro'
 import HelpRomo from './component/home/HelpRomo'
+import Disclaimer from './component/home/Disclaimer'
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Intro />
       <HelpRomo />
+      <Disclaimer />
     </section>
   )
 }

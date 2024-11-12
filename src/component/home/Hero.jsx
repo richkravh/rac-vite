@@ -7,7 +7,7 @@ export default function Hero () {
     return (
         <section id="hero-romo" className={`bg-rblack flex flex-col justify-center relative`}>
             <div id="romo-roll" className={`min-w-full min-h-full p-2 absolute flex flex-col justify-center lg:space-y-10 space-y-2`}>
-                <img src="/assets/romo-roll.png" className={`mx-auto w-[150px] lg:w-[750px] opacity-50`} />
+                <img src="/assets/romo-roll.png" className={`mx-auto w-[150px] lg:w-[750px]`} />
                 <div id="contract-address" className={`bg-white/70 lg:p-2 max-w-fit mx-auto flex space-x-2 rounded-lg p-1`}>
                     <p className={`py-1 lg:py-2 lg:px-10 px-4 text-sm lg:text-xl`}>{contractAddress?.substring(0,5)}...{contractAddress?.substring(35,42)}</p>
                     <CopyToClipboard text={contractAddress} onCopy={() => setIsCopied(true)}>
