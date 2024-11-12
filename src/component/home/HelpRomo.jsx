@@ -8,7 +8,7 @@ export default function HelpRomo () {
                 <h2 className={`lg:text-4xl text-2xl`}>Escaping The Matrix</h2>
                 <p className={`font-mali lg:text-xl text-lg`}>{helpRomo?.description}</p>
                 <div className={`lg:pt-5`}>
-                    <a href="/" className={`bg-rgrey text-rblack py-1 px-10 rounded-md lg:py-2 lg:px-10 lg:text-xl`}>
+                    <a href="https://t.me/romothegame_bot" target="_blank" className={`bg-rgrey text-rblack py-1 px-10 rounded-md lg:py-2 lg:px-10 lg:text-xl`}>
                         Launch MiniApp
                     </a>
                 </div>
