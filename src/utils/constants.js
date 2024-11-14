@@ -7,10 +7,6 @@ export const raccoonLinks = [
         title: "Telegram",
         href: "https://www.google.com/"
     },
-    {
-        title: "Memes",
-        href: "https://www.google.com/"
-    },
 ];
 
 export const contractAddress = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
