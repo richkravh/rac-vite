@@ -1,7 +1,7 @@
 export const raccoonLinks = [
     {
         title: "X",
-        href: "https://www.google.com/"
+        href: "https://x.com/romocoin"
     },
     {
         title: "Telegram",
