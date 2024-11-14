@@ -21,5 +21,5 @@ export const romoIntro = {
 }
 
 export const helpRomo = {
-    description: ""
+    description: "Ready to break free from the same old system, and he needs your help to do it. He's tired of following the rules and wants to think for himself, but he can't do it alone. Let's help Romo make that escape."
 }
