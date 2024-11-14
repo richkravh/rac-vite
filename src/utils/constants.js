@@ -5,7 +5,7 @@ export const raccoonLinks = [
     },
     {
         title: "Telegram",
-        href: "https://www.google.com/"
+        href: "https://t.me/romotheraccoon"
     },
 ];
 
