@@ -15,7 +15,7 @@ export default function Header () {
                         </a>
                     )
                 })}
-                <a id="buy-now" className={`text-rgrey bg-rblack lg:px-2 lg:py-1 rounded-md py-1 px-2`}>
+                <a href="https://google.com/" target="_blank" id="buy-now" className={`text-rgrey bg-rblack lg:px-2 lg:py-1 rounded-md py-1 px-2`}>
                     Buy Now
                 </a>
             </div>
