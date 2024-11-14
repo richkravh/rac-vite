@@ -13,7 +13,7 @@ export const raccoonLinks = [
     },
 ];
 
-export const contractAddress = "28tVhteKZkzzWjrdHGXzxfm4SQkhrDrjLur9TYCDVULE";
+export const contractAddress = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 export const romoIntro = {
     title: "Who the fuck is Romo?",
